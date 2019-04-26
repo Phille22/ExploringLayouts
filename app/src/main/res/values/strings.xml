@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Exploring Layouts</string>
     <string name="textViewString">Meny</string>
+    <string name="load_tablelayout">Load TableLayout</string>
+    <string name="constraintButton">Load</string>
+    <string name="tableLayoutButton">Load</string>
+    <string name="load_constraintlayout">Load ConstraintLayout</string>
+    <string name="editableText">Skriv text här</string>
+    <string name="back_to_menu_text">Back to menu</string>
+    <string name="image_dsc">IMAGE</string>
 </resources>
